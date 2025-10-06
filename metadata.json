@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Brain Wiki",
+  "description": "A minimal virtual brain wiki notepad where clicking terms creates new linked notes. AI provides context-aware definitions for unlinked terms, helping you build a personal knowledge graph.",
+  "requestFramePermissions": []
+}
